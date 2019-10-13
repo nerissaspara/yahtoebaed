@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheefohleo.mackwerk.dk/sitemap.xml
